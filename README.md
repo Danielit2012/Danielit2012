@@ -10,3 +10,4 @@ Danielit2012/Danielit2012 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ![Intel server](https://user-images.githubusercontent.com/103877791/188304165-318f297b-f86b-442c-b752-c41e790f031b.jpg)
+Any advices are welcome ;)
